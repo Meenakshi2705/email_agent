@@ -11,8 +11,12 @@ AI-powered tool that summarizes emails, extracts tasks, and drafts smart replies
 
 ### ✅ **AI Email Agent**
 Buttons handle AI operations:
-- **Summarize** → Generates short summary of selected email  
-- **What tasks?** → Extracts action items with deadlines / assignees  
+- **Summarize** → Generates short summary of selected email
+<img width="1579" height="576" alt="image" src="https://github.com/user-attachments/assets/b68b1599-fee3-49d3-9d45-225a42a8681f" />
+
+- **What tasks?** → Extracts action items with deadlines / assignees
+   <img width="1865" height="778" alt="image" src="https://github.com/user-attachments/assets/4358164f-aaee-4f5d-a8ad-c77346e7c9e8" />
+
 - **Draft Reply** → Produces a professional reply based on email + optional instruction  
 
 ### ✅ **Prompt Brain (Admin Section)**
